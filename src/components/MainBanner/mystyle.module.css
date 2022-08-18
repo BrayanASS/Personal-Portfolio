@@ -1,0 +1,23 @@
+.descriptionText {
+  font-size: 17px;
+  font-weight: 200;
+  margin-top: 40px;
+  letter-spacing: 0.275em;
+}
+
+.myNameIs {
+  font-size: 55px;
+  color: #b046c2;
+  font-weight: 300;
+  margin: 0;
+  letter-spacing: 0.075em;
+  line-height: 111%;
+}
+
+.brayan {
+  font-size: 75px;
+  font-weight: 600;
+  margin: 0;
+  letter-spacing: 0.075em;
+  line-height: 111%;
+}
