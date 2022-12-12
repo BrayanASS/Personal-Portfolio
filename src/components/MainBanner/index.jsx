@@ -1,6 +1,7 @@
 import React from 'react';
 import art from '../../assets/brayanArt.png';
 import dec1 from '../../assets/decoration1.png';
+import background from '../../assets/homeBackground.png';
 import { Icon } from '@iconify/react';
 import styled from 'styled-components';
 import styles from './mystyle.module.css';
@@ -9,7 +10,10 @@ const Banner = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 0 80px;
+  width: 100%;
+  padding-bottom: 120px;
+  background-color: #121112;
+  box-shadow: 0px 39px 0px #b046c2;
 `;
 
 const Titles = styled.div`

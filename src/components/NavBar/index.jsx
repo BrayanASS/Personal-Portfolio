@@ -2,11 +2,13 @@ import React from 'react';
 import logo from '../../assets/logoBrayan.png';
 import { Icon } from '@iconify/react';
 import styled from 'styled-components';
+import background from '../../assets/homeBackground.png';
 
 const Nav = styled.div`
   display: flex;
   justify-content: space-between;
-  margin: 2rem 8rem 2rem 8rem;
+  padding: 2rem 8rem 2rem 8rem;
+  background-color: #121112;
 `;
 
 function Navbar() {
